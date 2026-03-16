@@ -362,7 +362,7 @@ traditional_strength = len(traditional_rising)
 
 |  |  |
 |---|---|
-|  |  |
+| <img width="120" height="120" src="https://github.com/user-attachments/assets/567526cb-669c-4072-9c44-2cdbed9658d5" /> | <img width="120" height="120" src="https://github.com/user-attachments/assets/e103c577-ca97-440e-a129-377c7a2d07ce" /> |
 | 김명성 | 김태민 |
-| Data preprocessing/  Agent tool dev/ deployment | Agent COT / DB schema /  |
-| [GitHub](https://github.com/username1) | [GitHub](https://github.com/username2) |
+| Data preprocessing <br>deployment / Agent tool | Agent CoT / DB Schema |
+| [GitHub](https://github.com/tomchaccom) | [GitHub](https://github.com/xoals3094) |
